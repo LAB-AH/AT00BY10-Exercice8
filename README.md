@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/LAB-AH/AT00BY10-Exercice8/badge.svg?branch=main)](https://coveralls.io/github/LAB-AH/AT00BY10-Exercice8?branch=main)
+
 # Student template
 
 ## Purpose of this repository
